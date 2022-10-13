@@ -16,4 +16,4 @@ if(number<5){
 }
 console.log(zadatak4(4));
 console.log(zadatak4(5));
-console.log(zadatak4(6));
+console.log(zadatak4(7));
