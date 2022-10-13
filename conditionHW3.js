@@ -12,3 +12,5 @@ else {return("Student has failed the exam.");}
 console.log(grade(75));
 console.log(grade(89));
 console.log(grade(50));
+
+//trying to save changes on github
